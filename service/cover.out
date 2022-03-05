@@ -1,0 +1,7 @@
+mode: set
+calculator/service/calc.go:10.32,12.2 1 0
+calculator/service/calc.go:14.32,16.2 1 1
+calculator/service/calc.go:18.45,19.30 1 0
+calculator/service/calc.go:22.2,22.38 1 0
+calculator/service/calc.go:19.30,21.3 1 0
+calculator/service/calc.go:25.41,27.2 1 0
